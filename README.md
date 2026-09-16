@@ -1,5 +1,7 @@
-## Hi there 👋
-
+👩🏻‍💻 PhD student at the research group for Uncertainty Quantification at the Karlsruhe Institute of Technology
+🔍 Research interests include hierarchical approaches to MCMC sampling combined with surrogate models
+🐍 mostly python, interested in Julia
+✨ in favour of free software
 <!--
 **louisekluge/louisekluge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
